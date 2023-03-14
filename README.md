@@ -1,2 +1,2 @@
-# ★ ProjectStaff ★
-## 「NEED MySQL DataBase」
+# ⭐ ProjectStaff ⭐
+## · NEED MySQL DataBase
