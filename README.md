@@ -1,4 +1,4 @@
-<a href="https://discord.com/channels/@me/1054422329159061627"><img src="https://minecraft.redpoint.ro/sites/www.minecraft.redpoint.ro/files/moderator.png" width="546" alt="ProjectStaff" /></a>
+<a href="#"><img align="center" src="https://www.minecraft.redpoint.ro/sites/www.minecraft.redpoint.ro/files/moderator.png" width="546" alt="ProjectStaff" /></a>
 <h1 align="center">⭐ ProjectStaff ⭐</h1>
 <h2 align="center">A Minecraft plugin to protect the accounts of your staffs.</h2>
 
