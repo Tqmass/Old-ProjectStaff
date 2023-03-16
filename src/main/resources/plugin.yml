@@ -1,0 +1,4 @@
+name: ProjectStaff
+version: '${project.version}'
+main: me.hqwks.creabyte.projectstaff.ProjectStaff
+api-version: 1.18
