@@ -1,4 +1,5 @@
 <h1 align="center">⭐ ProjectStaff ⭐</h1>
+<img align="center" src="https://www.minecraft.redpoint.ro/sites/www.minecraft.redpoint.ro/files/moderator.png" alt="ProjectStaff" height="30" width="40"/>
 <h2 align="center">A Minecraft plugin to protect the accounts of your staffs.</h2>
 
 <h4 align="left">Authors:</h4>
